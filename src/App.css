@@ -3,7 +3,9 @@
 }
 
 .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    display: block;
+    margin: 10em auto;
+    animation: App-logo-spin infinite 10s linear;
     height: 80px;
 }
 
