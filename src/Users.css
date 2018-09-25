@@ -1,0 +1,13 @@
+.users {
+    list-style: none;
+}
+.user {
+    text-align: center;
+}
+
+.avatar {
+    border-radius: 100%;
+}
+.fullname {
+    text-transform: capitalize;
+}
